@@ -1,0 +1,12 @@
+dataclasses
+matplotlib
+networkx
+numpy
+pandas
+PGMpy
+pytest
+scikit-learn
+scipy
+seaborn
+#setuptools
+statsmodels
