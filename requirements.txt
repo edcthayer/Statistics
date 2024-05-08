@@ -1,5 +1,4 @@
 dataclasses
-jupyter
 matplotlib
 networkx
 numpy
